@@ -5,9 +5,10 @@ A project based learning activity for people who are getting started with Git an
 You can play the game at  http://githubteacher.github.io/github-games/
 
 THis game is self explanitory you moron
-sldfhkjsdhf
-sdfhskjdhf
-skdjfhskjdfh
+* sldfhkjsdhf
+* sdfhskjdhf
+* skdjfhskjdfh
+
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
